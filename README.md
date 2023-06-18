@@ -6,6 +6,7 @@ This is meant to be a curated list of resources for learning the application of 
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) : A C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 - [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) : Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [matplotlibcpp17](https://soblin.github.io/matplotlibcpp17/) : Yet another C++ library for matplotlib featuring more functionalities than matplotlibcpp.
+- [Gnuplot](http://www.gnuplot.info/) : Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms.
 - 
 ## Books
 
