@@ -7,7 +7,8 @@ This is meant to be a curated list of resources for learning the application of 
 - [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) : Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 - [matplotlibcpp17](https://soblin.github.io/matplotlibcpp17/) : Yet another C++ library for matplotlib featuring more functionalities than matplotlibcpp.
 - [Gnuplot](http://www.gnuplot.info/) : Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms.
-- [Magnum Engine](https://magnum.graphics/) : Light­weight and mod­u­lar C++11/C++14 graph­ics mid­dle­ware for games and data visu­al­iz­a­tion. 
+- [Magnum Engine](https://magnum.graphics/) : Light­weight and mod­u­lar C++11/C++14 graph­ics mid­dle­ware for games and data visu­al­iz­a­tion.
+- [Morphologica](https://github.com/ABRG-Models/morphologica) : A library of supporting code for numerical modelling (JSON config, HDF5 data, Modern OpenGL visualization.
 ## Books
 
 ## YouTube Videos
